@@ -1,2 +1,11 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+    import Tarjeta from "$lib/components/Tarjeta.svelte";
+
+</script>
+<section>
+    <Tarjeta ></Tarjeta>
+    <Tarjeta ></Tarjeta>
+    <Tarjeta ></Tarjeta>
+
+
+</section>
