@@ -14,7 +14,7 @@
 
 <nav class="flex justify-between items-center px-12 py-4 bg-gray-950 shadow-2xl shadow-blue-800">
 	<div>
-		<p class="text-blue-900 font-extrabold">EBSOUND</p>
+		<p class="text-blue-900 font-extrabold text-3xl">EBSOUND</p>
 	</div>
 	<div class="text-white">
 		<a href="/">Home</a>
