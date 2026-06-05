@@ -1,1 +1,11 @@
 @import 'tailwindcss';
+
+
+@font-face {
+    font-family: "black off";
+    src: url("/fuente.ttf");
+}
+
+.font-blackoff {
+    font-family: 'black off' !important;
+}
