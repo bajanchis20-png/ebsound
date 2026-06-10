@@ -22,8 +22,7 @@
     <div class="flex gap-8 text-gray-400 font-medium">
         <a href="/" class="hover:text-white transition-colors duration-200">Home</a>
         <a href="/library" class="hover:text-white transition-colors duration-200">Library</a>
-        <a href="/visualizer" class="hover:text-white transition-colors duration-200">Visualizer</a>
-        <a href="/buddies" class="hover:text-white transition-colors duration-200">Buddies</a>
+    
     </div>
 
     <div class="flex items-center gap-5 text-gray-400">
