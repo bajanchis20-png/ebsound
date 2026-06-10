@@ -4,8 +4,7 @@
 </script>
 <section>
     <Tarjeta ></Tarjeta>
-    <Tarjeta ></Tarjeta>
-    <Tarjeta ></Tarjeta>
+    
 
 
 </section>
