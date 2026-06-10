@@ -1,7 +1,7 @@
 let CancionActual = $state()
 
 
-export function obtenercancion () {return CancionActual}
+export const obtenercancion = () => {return CancionActual}
 
 
-export function CambiarCancion (cancion) {CancionActual=cancion}
+export const CambiarCancion = (cancion) => {CancionActual=cancion}
