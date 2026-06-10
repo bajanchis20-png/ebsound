@@ -3,8 +3,12 @@
     import Icon from "@iconify/svelte";
 
     const { cancion } = $props();
+
+    const cambiar = () => {
+        CambiarCancion(cancion)
+    }
 </script>
-<button onclick={CambiarCancion(cancion)}>
+<button onclick={cambiar}>
     <div
         class="group flex items-center justify-between p-3 bg-gray-900 rounded-lg hover:bg-gray-800 transition-colors duration-300 cursor-pointer border border-transparent hover:border-gray-700"
     >
