@@ -3,6 +3,7 @@
 	import "./layout.css";
 	import favicon from '$lib/assets/favicon.svg';
 	import Icon from "@iconify/svelte"
+    import BarraDeMusic from "$lib/components/Barra-de-music.svelte";
 
 	let { children } = $props();
 </script>
@@ -41,3 +42,4 @@
 
 {@render children()}
 
+<BarraDeMusic />
