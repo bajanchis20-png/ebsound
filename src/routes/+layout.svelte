@@ -39,7 +39,7 @@
         <div class="w-6 h-6 rounded-full bg-gray-700 flex items-center justify-center overflow-hidden">
           <Icon icon="mdi:user" class="text-white text-sm" />
         </div>
-        <span class="text-xs font-medium text-gray-300 group-hover:text-white">Perfil</span>
+        <span class="text-xs font-medium text-gray-300 group-hover:text-white"><a href="/perfil">Perfil</a></span>
       </button>
     </div>
   </div>
