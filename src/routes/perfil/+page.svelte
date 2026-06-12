@@ -6,7 +6,7 @@
         <div class="relative bg-[#0a0a0c] border border-white/10 p-10 rounded-3xl shadow-2xl">
             <div class="text-center mb-10">
                 <h2 class="text-3xl font-black text-white uppercase tracking-tighter mb-2">
-                    ¡HOLA! <br/> BIENVENIDO A <span class="text-blue-500">EBSOUND</span>
+                    ¡HOLA! <br/> BIENVENIDO A <span class="text-blue-600">EBSOUND</span>
                 </h2>
                 <p class="text-neutral-500 text-xs font-bold uppercase tracking-[0.2em]">Accede a tu cuenta</p>
             </div>
@@ -44,7 +44,7 @@
             <div class="mt-8 pt-6 border-t border-white/5 text-center">
                 <p class="text-[10px] text-neutral-600 uppercase tracking-widest">
                     ¿No tienes una cuenta? 
-                    <a href="#" class="text-blue-500 hover:text-white transition-colors font-bold ml-1">Regístrate</a>
+                    <a href="#" class="text-blue-600 hover:text-white transition-colors font-bold ml-1">Regístrate</a>
                 </p>
             </div>
         </div>
